@@ -3,3 +3,4 @@
 +   [jQuery2 秘籍](docs/jq2-recipe/README.md)
 +   [jQuery2 高级教程](docs/pro-jq2/README.md)
 +   [jQuery Mobile 高级教程](docs/pro-jqmobi/README.md)
++   [VueJS2 高级教程](docs/pro-vue2/README.md)
